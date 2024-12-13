@@ -1,13 +1,14 @@
-Tech Stacks Used:
+**Tech Stacks Used:**
 React.js: For building the dynamic and interactive user interface.
 Tailwind CSS: For creating a responsive and modern design with utility-first CSS classes.
 Node.js: Used in the backend for the server-side functionality (if required).
 LocalStorage: For maintaining persistent data (like wishlist) even after page reloads.
-Key Features Implemented:
+
+**Key Features Implemented:**
 Product Search and Filter: Allows users to search for products by name and filter them by category (like sarees, boys' wear, etc.).
 Wishlist Functionality: Users can add products to their wishlist, which is saved locally using the browser's localStorage.
-AI Chatbot Integration: I integrated an AI chatbot powered by Dialogflow, allowing users to interact with the website and get quick assistance.
-Future Enhancements to Make the Project Stand Out:
+
+**Future Enhancements to Make the Project Stand Out:**
 Advanced Product Filters: Implement multi-level filters for size, color, price range, etc., to enhance the shopping experience.
 
 Implementation: This can be done by adding more filter options and updating the product list dynamically based on the selected filters.
