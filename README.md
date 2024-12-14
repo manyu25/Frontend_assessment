@@ -1,3 +1,5 @@
+To start the project use npm i and npm start command
+
 **Tech Stacks Used:**
 React.js: For building the dynamic and interactive user interface.
 Tailwind CSS: For creating a responsive and modern design with utility-first CSS classes.
